@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: blue;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 20px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lightcyan;
+	padding: 20px;	
+}
+h1  {
+	font-family: IvanJaksic;
+	color: white;
+	font-size: 60px;
+}
+h2 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: white;
+	font-size: 35;
+}
+h3 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: white;
+	font-size: 30;
+}
+
+span{color: rgba(222,0,4,1.00);}
+body{
+	background-image: url("pozadina1.jpg")
+}
+nav ul li {
+	list-style-type: none;
+	width: 150px;
+	float: left
+	
+}
+a {
+	color:blue;
+	background-color: lightcyan;
+	padding: 10px;
+	line-height: 20px;
+	border: 1px #FF0004;
+	
+}
+a:hover{
+	background-color: grey;
+}
+img{
+	height: 200px;
+}
